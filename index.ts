@@ -1,2 +1,1 @@
-import { helloWorld } from "./function";
-helloWorld();
+export * from './function';
